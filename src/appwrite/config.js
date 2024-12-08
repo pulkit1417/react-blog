@@ -1,4 +1,3 @@
-import { isFileLoadingAllowed } from 'vite';
 import conf from '../conf/appwrite.config.js';
 import { Client, ID, Databases, Storage, Query } from "appwrite";
 
